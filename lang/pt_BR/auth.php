@@ -25,5 +25,5 @@ return [
     'continue' => 'Continuar',
     'profile' => 'Minha conta',
     'verify-email'=> 'Verificar e-mail',
-    
+    'not_new' => 'Já tem uma conta?',
 ];
