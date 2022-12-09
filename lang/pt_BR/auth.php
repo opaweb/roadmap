@@ -26,4 +26,5 @@ return [
     'profile' => 'Minha conta',
     'verify-email'=> 'Verificar e-mail',
     'not_new' => 'Já tem uma conta?',
+    'email' => 'E-mail',
 ];
