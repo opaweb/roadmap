@@ -27,4 +27,8 @@ return [
     'verify-email'=> 'Verificar e-mail',
     'not_new' => 'Já tem uma conta?',
     'email' => 'E-mail',
+    'reset_password' => 'Redefinir senha',
+    'send_reset_link' => 'Enviar link para redefinição da senha',
+    'back_to_login' => 'Voltar para o login',
+    
 ];
