@@ -16,4 +16,14 @@ return [
     'password' => 'Senha',
     'throttle' => 'Você realizou muitas tentativas de login. Por favor, tente novamente em :seconds segundos.',
     'register' => 'Crie uma conta',
+    'login'=> 'Entrar',
+    'name'=> 'Nome',
+    'confirm_password' => 'Confirme a senha',
+    'forgot_password' => 'Esqueceu a senha?',
+    'remember_me' => 'Lembrar login',
+    'password_protected' => 'Proteção por senha',
+    'continue' => 'Continuar',
+    'profile' => 'Minha conta',
+    'verify-email'=> 'Verificar e-mail',
+    
 ];
